@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣佛華嚴經入法界品四十二字觀門
+#+DATE: 2015-08-30 20:28:02.466594
+#+PROPERTY: JUAN 0
