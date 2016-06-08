@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:02.232811
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:35
 #+TITLE: 大方廣佛華嚴經入法界品四十二字觀門
 #+PROPERTY: CBETA_ID T19n1019
 #+PROPERTY: ID KR6j0212
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 1019
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0212_T_000-0707c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0212_T_001-0707c> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1019¶
-
- 大方廣佛華嚴經入法界品四十¶
+No. 1019¶
+大方廣佛華嚴經入法界品四十¶
 二字觀門¶
 ¶
-開府儀同三司特進試鴻臚卿¶
-肅國公食邑三千戶賜紫贈司¶
-空諡大鑒正號大廣智大興善¶
-寺三藏沙門不空奉　詔譯¶
+開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑒正號大廣智大興善寺三藏沙門不空奉　詔譯¶
 
 爾時善財童子從天宮下。向迦毘羅城。至善¶
 知眾藝童子所。頭頂禮敬於一面立。白言聖¶
