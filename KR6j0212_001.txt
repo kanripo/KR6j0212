@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:02.710517
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:35
 #+TITLE: 大方廣佛華嚴經入法界品四十二字觀門
 #+PROPERTY: CBETA_ID T19n1019
 #+PROPERTY: ID KR6j0212
